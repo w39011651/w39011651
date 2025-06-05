@@ -76,7 +76,7 @@ me.say_hi()
 ### 🎯 Project Highlights:
 - 🧠 **Deep Learning**: Implemented protein language models (ESM, Mamba)
 - 🌐 **Full-Stack**: Complete web application with frontend and backend
-- 🏗️ **Architecture**: msCNN + Transformer + Mamba hybrid architecture
+- 🏗️ **Architecture**: msCNN, Transformer and Mamba multiple architecture
 - 🐳 **DevOps**: Dockerized deployment on Google Cloud Platform
 - 🔬 **Research**: Advanced bioinformatics and computational biology
 
@@ -138,10 +138,6 @@ Dockerfile   ░░░░░░░░░░░░░░░░░░░░░    
 ### 💭 Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🐍 Contribution Snake
-
-![Snake animation](https://github.com/w39011651/w39011651/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
