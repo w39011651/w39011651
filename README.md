@@ -20,7 +20,6 @@ class Developer:
         self.current_focus = ["Deep Learning", "Protein Language Models", "Backend Development"]
         self.interests = ["ESM", "Mamba", "Competitive Programming", "Docker"]
         self.currently_learning = "Rust 🦀"
-        self.fun_fact = "I deploy ML models on GCP like a pro! ☁️"
     
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together! 🚀")
