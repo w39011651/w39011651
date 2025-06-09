@@ -5,6 +5,12 @@ Deep Learning • Protein Language Models • Backend Development
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/w39011651/w39011651/gh-pages/dist/ocean.gif" alt="contribution snake animation"/>
+</div>
+
+---
+
 ## 📖 About Me
 
 - 🔭 I’m currently working on protein language models (ESM, Mamba)  
