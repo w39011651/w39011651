@@ -1,12 +1,7 @@
-<div align="center">
+# 👋 Hi, I’m w39011651
 
-# 👋 Hi there, I'm w39011651!
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-
-### 🎓 YZU Computer Science Student | 🧬 Protein Language Model Enthusiast | 🚀 Backend Developer
-
-</div>
+**YZU Computer Science Student**  
+Deep Learning • Protein Language Models • Backend Development
 
 ---
 
@@ -14,23 +9,12 @@
 
 ---
 
-## 🤖 About Me
+## 📖 About Me
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "w39011651"
-        self.university = "Yuan Ze University (YZU)"
-        self.current_focus = ["Deep Learning", "Protein Language Models", "Backend Development"]
-        self.interests = ["ESM", "Mamba", "Competitive Programming", "Docker"]
-        self.currently_learning = "Rust 🦀"
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together! 🚀")
-
-me = Developer()
-me.say_hi()
-```
+- 🔭 I’m currently working on protein language models (ESM, Mamba)  
+- 🌱 I’m learning Rust and advanced Transformer architectures  
+- 💬 Ask me about Docker, GCP deployments, or competitive programming  
+- 📫 Reach me at [alter39011651@gmail.com](mailto:alter39011651@gmail.com)
 
 ---
 
@@ -54,21 +38,14 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Stats
+## 🔭 Featured Project
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=w39011651&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=w39011651&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=w39011651&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 🧬 Featured Project: BiologyInformation-FinalProject
+### BiologyInformation-FinalProject  
+- **Tech**: Python • HTML • Docker  
+- **Highlights**:  
+  - msCNN + Transformer + Mamba hybrid architecture  
+  - End-to-end web application (frontend & backend)  
+  - Dockerized ML service deployed on GCP
 
 <div align="center">
   
@@ -76,76 +53,17 @@ me.say_hi()
 
 </div>
 
-### 🎯 Project Highlights:
-- 🧠 **Deep Learning**: Implemented protein language models (ESM, Mamba)
-- 🌐 **Full-Stack**: Complete web application with frontend and backend
-- 🏗️ **Architecture**: msCNN, Transformer and Mamba multiple architecture
-- 🐳 **DevOps**: Dockerized deployment on Google Cloud Platform
-- 🔬 **Research**: Advanced bioinformatics and computational biology
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=w39011651&show_icons=true&theme=vue&hide_border=true" alt="GitHub stats"/>
+</p>
 
 ---
 
-## 🎯 Current Focus
+## 🌐 Connect
 
-```mermaid
-graph TD
-    A[🧬 Protein Language Models] --> B[ESM & Mamba Research]
-    C[🚀 Backend Development] --> D[Scalable ML APIs]
-    E[⚡ Competitive Programming] --> F[Algorithm Optimization]
-    G[🦀 Learning Rust] --> H[Systems Programming]
-    
-    B --> I[🎯 Next: Advanced Transformer Architectures]
-    D --> I
-    F --> I
-    H --> I
-```
-
----
-
-## 🔥 Recent Activities
-
-<!--START_SECTION:activity-->
-- 🧬 Deployed protein language model pipeline on GCP
-- 🐳 Optimized Docker containers for ML workloads  
-- 🔍 Researching Mamba architecture for biological sequences
-- 🦀 Learning Rust for high-performance computing
-<!--END_SECTION:activity-->
-
----
-
-## 📈 Coding Activity
-
-<!--START_SECTION:waka-->
-```text
-Python       ████████████████████░   76.4%
-HTML         █████░░░░░░░░░░░░░░░░   22.2%
-Dockerfile   ░░░░░░░░░░░░░░░░░░░░░    1.4%
-```
-<!--END_SECTION:waka-->
-
----
-
-## 🌐 Connect with me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alter39011651@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/w39011651)
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-**Thanks for visiting! 🚀**
-
-![Visitor Count](https://profile-counter.glitch.me/w39011651/count.svg)
-
-</div>
+- Email: [alter39011651@gmail.com](mailto:alter39011651@gmail.com)  
+- GitHub: [@w39011651](https://github.com/w39011651)  
