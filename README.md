@@ -5,9 +5,7 @@ Deep Learning • Protein Language Models • Backend Development
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/w39011651/w39011651/gh-pages/dist/ocean.gif" alt="contribution snake animation"/>
-</div>
+![](https://raw.githubusercontent.com/Howie0715/Howie0715/output/github-snake.svg)
 
 ---
 
