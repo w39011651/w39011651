@@ -1,0 +1,28 @@
+name: Generate Contribution Snake Game
+
+on:
+  schedule:
+    - cron: '0 0 * * *'     # 每天 UTC 00:00 自動執行
+  workflow_dispatch:       # 也可手動觸發
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Snake Game (HTML)
+        uses: Platane/snk@v4
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          html: true             # 產生 HTML 而非純 SVG
+          outputs: |
+            dist/index.html
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dist
+          publish_branch: gh-pages
