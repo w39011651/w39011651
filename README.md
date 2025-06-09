@@ -5,10 +5,6 @@ Deep Learning • Protein Language Models • Backend Development
 
 ---
 
-![Snake animation](https://github.com/w39011651/w39011651/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 📖 About Me
 
 - 🔭 I’m currently working on protein language models (ESM, Mamba)  
