@@ -9,6 +9,12 @@ Deep Learning • Protein Language Models • Backend Development
 
 ---
 
+Languages:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w39011651&layout=compact&theme=vue)
+
+---
+
 ## 📖 About Me
 
 - 🔭 I’m currently working on protein language models (ESM, Mamba)  
